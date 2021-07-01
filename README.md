@@ -18,11 +18,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://raw.githubusercontent.com/rohits673/rohits673-Stats-preview-card-component/master/Screenshot/Screenshot%202021-07-01%20at%2015-56-43%20Frontend%20Mentor%20Stats%20preview%20card%20component.png)
 
 ### Links
 
-- Live Site URL: [Preview Site](https://your-live-site-url.com)
+- Live Site URL: [Preview Site](https://rohits673.github.io/rohits673-Stats-preview-card-component/)
 
 ### Built with
 
@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Coming Soon](#)
+- Frontend Mentor - [@rohits673](https://www.frontendmentor.io/profile/rohits673)
